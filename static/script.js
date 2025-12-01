@@ -1,10 +1,10 @@
 const text = [
-  "Desenvolvimento.",
+  "Software.",
   "Automações.",
   "Full Stack.",
   "APIs.",
   "Inteligência Artificial.",
-  "Software."
+  "Sites."
 ];
 
 let index = 0;
@@ -72,7 +72,7 @@ const translations = {
             "Full Stack.",
             "APIs.",
             "Artificial Intelligence.",
-            "Sites."
+            "Websites."
         ]
     }
 };
