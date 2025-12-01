@@ -49,10 +49,10 @@ const translations = {
     pt: {
         t1: "Prazer, sou <span>Enrico</span>",
         t2: "Trabalho com",
-        t3: "Desenvolvo automações inteligentes, sites modernos e softwares sob medida para necessidades empresariais.",
-        t4: "Entre em contato",
+        t3: "Desenvolvo automações inteligentes, sites modernos e softwares sob medida para necessidades empresariais e pessoais.",
+        t4: "Me chame para um projeto",
         typing: [
-            "Software.",
+            "Sistemas.",
             "Automações.",
             "APIs.",
             "Inteligência Artificial.",
@@ -62,9 +62,10 @@ const translations = {
     en: {
         t1: "Nice to meet you, I'm <span>Enrico</span>",
         t2: "I work with",
-        t3: "I develop intelligent automations, modern websites and custom software for business needs.",
-        t4: "Contact me",
+        t3: "I develop intelligent automations, modern websites and custom software for business and personal needs.",
+        t4: "Talk to me",
         typing: [
+            "Systems.",
             "Software.",
             "Automations.",
             "APIs.",
