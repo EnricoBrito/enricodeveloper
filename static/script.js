@@ -1,7 +1,6 @@
 const text = [
-  "Software.",
+  "Sistemas.",
   "Automações.",
-  "Full Stack.",
   "APIs.",
   "Inteligência Artificial.",
   "Sites."
@@ -55,7 +54,6 @@ const translations = {
         typing: [
             "Software.",
             "Automações.",
-            "Full Stack.",
             "APIs.",
             "Inteligência Artificial.",
             "Sites."
@@ -68,8 +66,7 @@ const translations = {
         t4: "Contact me",
         typing: [
             "Software.",
-            "Automation.",
-            "Full Stack.",
+            "Automations.",
             "APIs.",
             "Artificial Intelligence.",
             "Websites."
